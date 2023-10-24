@@ -1,0 +1,25 @@
+{
+    "interActiveEmailTypes": [
+        {
+            "type": "Carousel",
+            "headline": "Example: Build an Interactive Carousel for Email",
+            "description": "Interactive email is becoming more popular than ever. Using a carousel in an email can be a powerful tool, especially for mobile where vertical space is at a premium. The carousel we’ll be creating below isn’t just for images though, you can add any content you want to each section (including buttons and text). This tutorial is based on the work of Sam Johnston, you should check out his original article. Justin Khoo also has a carousel builder that uses a different technique.",
+            "code": "<h1 style='color: #FFCC00;'>Carousel</h1>"
+        },
+        {
+            "type": "Timer",
+            "description": "Interactive email is becoming more popular than ever. Using a Timer in an email can be a powerful tool, especially for mobile where vertical space is at a premium. The Timer we’ll be creating below isn’t just for images though, you can add any content you want to each section (including buttons and text). This tutorial is based on the work of Sam Johnston, you should check out his original article. Justin Khoo also has a Timer builder that uses a different technique.",
+            "code": "<h1 style='color: #FFCC00;'>Timer</h1>"
+        },
+        {
+            "type": "Accordion",
+            "description": "Interactive email is becoming more popular than ever. Using a Timer in an email can be a powerful tool, especially for mobile where vertical space is at a premium. The Timer we’ll be creating below isn’t just for images though, you can add any content you want to each section (including buttons and text). This tutorial is based on the work of Sam Johnston, you should check out his original article. Justin Khoo also has a Timer builder that uses a different technique.",
+            "code": "<h1 style='color: #FFCC00;'>Accordion</h1>"
+        },
+        {
+            "type": "Tabs",
+            "description": "Interactive email is becoming more popular than ever. Using a Timer in an email can be a powerful tool, especially for mobile where vertical space is at a premium. The Timer we’ll be creating below isn’t just for images though, you can add any content you want to each section (including buttons and text). This tutorial is based on the work of Sam Johnston, you should check out his original article. Justin Khoo also has a Timer builder that uses a different technique.",
+            "code": "<h1 style='color: #FFCC00;'>Tabs</h1>"
+        }
+    ]
+}

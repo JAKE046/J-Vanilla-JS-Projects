@@ -1,23 +1,32 @@
-
 [
-    {
-        "headline": "Example: Build an Interactive Carousel for Email",
-        "description": "Interactive email is becoming more popular than ever. Using a carousel in an email can be a powerful tool, especially for mobile where vertical space is at a premium. The carousel we’ll be creating below isn’t just for images though, you can add any content you want to each section (including buttons and text). This tutorial is based on the work of Sam Johnston, you should check out his original article. Justin Khoo also has a carousel builder that uses a different technique.",
-        "code": "<h1 style='color: #FFCC00;'>Carousel</h1>"
-    },
     {
         "headline": "Example: Build an Interactive Timer for Email",
         "description": "Interactive email is becoming more popular than ever. Using a carousel in an email can be a powerful tool, especially for mobile where vertical space is at a premium. The carousel we’ll be creating below isn’t just for images though, you can add any content you want to each section (including buttons and text). This tutorial is based on the work of Sam Johnston, you should check out his original article. Justin Khoo also has a carousel builder that uses a different technique.",
         "code": "<h1 style='color: #FFCC00;'>Timer</h1>"
     },
     {
-        "headline": "Example: Build an Interactive Option 3 for Email",
+        "headline": "Example: Build an Interactive Accordion for Email",
         "description": "Interactive email is becoming more popular than ever. Using a carousel in an email can be a powerful tool, especially for mobile where vertical space is at a premium. The carousel we’ll be creating below isn’t just for images though, you can add any content you want to each section (including buttons and text). This tutorial is based on the work of Sam Johnston, you should check out his original article. Justin Khoo also has a carousel builder that uses a different technique.",
-        "code": "<h1 style='color: #FFCC00;'>Option 3</h1>"
+        "code": "<h1 style='color: #FFCC00;'>Accordion</h1>"
+    },
+    {
+        "headline": "Example: Build an Interactive Carousel for Email",
+        "description": "Interactive email is becoming more popular than ever. Using a carousel in an email can be a powerful tool, especially for mobile where vertical space is at a premium. The carousel we’ll be creating below isn’t just for images though, you can add any content you want to each section (including buttons and text). This tutorial is based on the work of Sam Johnston, you should check out his original article. Justin Khoo also has a carousel builder that uses a different technique.",
+        "code": "<h1 style='color: #FFCC00;'>Carousel</h1>"
     },
     {
         "headline": "Example: Build an Interactive Option 4 for Email",
         "description": "Interactive email is becoming more popular than ever. Using a carousel in an email can be a powerful tool, especially for mobile where vertical space is at a premium. The carousel we’ll be creating below isn’t just for images though, you can add any content you want to each section (including buttons and text). This tutorial is based on the work of Sam Johnston, you should check out his original article. Justin Khoo also has a carousel builder that uses a different technique.",
         "code": "<h1 style='color: #FFCC00;'>Option 4</h1>"
+    },
+    {
+        "headline": "Example: Build an Interactive Option 5 for Email",
+        "description": "Interactive email is becoming more popular than ever. Using a carousel in an email can be a powerful tool, especially for mobile where vertical space is at a premium. The carousel we’ll be creating below isn’t just for images though, you can add any content you want to each section (including buttons and text). This tutorial is based on the work of Sam Johnston, you should check out his original article. Justin Khoo also has a carousel builder that uses a different technique.",
+        "code": "<h1 style='color: #FFCC00;'>Option 5</h1>"
+    },
+    {
+        "headline": "Example: Build an Interactive Option 6 for Email",
+        "description": "Interactive email is becoming more popular than ever. Using a carousel in an email can be a powerful tool, especially for mobile where vertical space is at a premium. The carousel we’ll be creating below isn’t just for images though, you can add any content you want to each section (including buttons and text). This tutorial is based on the work of Sam Johnston, you should check out his original article. Justin Khoo also has a carousel builder that uses a different technique.",
+        "code": "<h1 style='color: #FFCC00;'>Option 6</h1>"
     }
 ]

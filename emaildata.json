@@ -2,6 +2,8 @@
     {
         "headline": "Example: Build an Interactive Timer for Email",
         "description": "Interactive email is becoming more popular than ever. Using a carousel in an email can be a powerful tool, especially for mobile where vertical space is at a premium. The carousel we’ll be creating below isn’t just for images though, you can add any content you want to each section (including buttons and text). This tutorial is based on the work of Sam Johnston, you should check out his original article. Justin Khoo also has a carousel builder that uses a different technique.",
+        "list1": "<h2>Carousel functions</h2><ul><li>Apple Mail 7</li><li>Apple Mail 8</li><li>Outlook 2011 for Mac</li><li>Outlook 2016 for Mac</li<li>Mozilla Thunderbird</li><li>iPad and iPad mini iOS</li><li>iPhone iOS</li><li>Android</li><li>Windows Mobile</li><li>AOL (Chrome, Firefox & Safari)</li></ul>",
+        "list2": "<h2>Carousel Fallback</h2><p>In other email clients, the “fallback” of stacked content blocks should be shown.</p><ul><li>Lotus Notes and IBM Notes</li><li>Outlook 2000</li><li>Outlook 2002</li><li>Outlook 2003</li><li>Outlook 2007</li><li>Outlook 2010</li><li>Outlook 2013</li><li>Outlook 2016</li><li>AOL (Internet Explorer)</li><li>Gmail App (iPhone, Windows Mobile & Android)</li><li>Gmail</li><li>Google Apps</li><li>Office 365</li><li>Outlook.com</li><li>Yahoo! Mail</li></ul>",
         "code": "<h1 style='color: #FFCC00;'>Timer</h1>"
     },
     {
